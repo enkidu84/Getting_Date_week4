@@ -1,3 +1,7 @@
+## The combination of these two functions allows to cache the inverse of matrices that have been calculated before
+
+## prepare the matrix and write the necessary functions
+
 makeCacheMatrix <- function(x = matrix()) {
 
 i <- NULL
